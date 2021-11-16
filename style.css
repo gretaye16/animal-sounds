@@ -1,0 +1,30 @@
+body {
+ background-color:lavender; 
+}
+.header_div {
+    background-color: lemonchiffon;
+    color: gray;
+}
+.header_div p {
+    color: beige;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+.copy_right_footer {
+    position:fixed;    
+    bottom: 0;
+    color: darkorchid;
+    background-color: lightcyan;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px dimgray;
+}
